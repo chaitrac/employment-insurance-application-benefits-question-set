@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "EIApplication": 
     {
-       "id":1,
-       "ApplicationID": "185764656",
-       "SessionId":"12345"   
-    }
-  ],
+       "data": {
+          "DetermineAWQuestionSetResult": {
+              "AWQuestionSetType": "Full",
+              "ClaimType": "TimeOut"
+          }
+      } 
+    },
   "profile": {
     "name": "typicode"
   }
